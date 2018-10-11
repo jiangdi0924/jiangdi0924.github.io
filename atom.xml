@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>norton`blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-10-11T10:10:22.323Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>norton</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我经常听的podcasts</title>
+    <link href="http://yoursite.com/2018/10/11/18-10-11/"/>
+    <id>http://yoursite.com/2018/10/11/18-10-11/</id>
+    <published>2018-10-11T09:29:12.000Z</published>
+    <updated>2018-10-11T10:10:22.323Z</updated>
+    
+    <content type="html"><![CDATA[<p>漫长的通勤时间被动养成的了听podcasts的习惯，现在已经是一个重度用户，但是也出现的了资源稀缺的状况。以下是我的推荐排名顺序随机。</p><p><a href="https://ipn.li/" target="_blank" rel="external">IPN</a> ipn推出的，太医来了，一天世界等经常收听。</p><p><a href="https://podtail.com/podcast/36%E6%B0%AA-%E7%A1%85%E8%B0%B7%E6%97%A9%E7%9F%A5%E9%81%93/" target="_blank" rel="external">硅谷早知道第二季</a>讲述一些发生在硅谷的故事。</p><p><a href="https://overcast.fm/itunes1113439316" target="_blank" rel="external">反派影评</a>非常喜欢的影评列，波米对电影的理解和强烈的批判精神很有意思。</p><p><a href="https://podtail.com/podcast/%E5%A3%B0%E4%B8%9C%E5%87%BB%E8%A5%BF/" target="_blank" rel="external">声东击西</a>一些发生在美国的事情，挺有趣。</p><p><a href="http://teahour.fm" target="_blank" rel="external">teahour</a>ruby程序员做的，经常会聊一些技术话题和创业感想等等。</p><p><a href="https://overcast.fm/itunes985908132" target="_blank" rel="external">创业美国</a>美国创业故事</p><p><a href="https://kernelpanic.fm" target="_blank" rel="external">内核恐慌</a> 像他们开场介绍的那样“喜欢听的听不喜欢听的不要听”，偶尔听听。</p><p>暂时这样，以后再更</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;漫长的通勤时间被动养成的了听podcasts的习惯，现在已经是一个重度用户，但是也出现的了资源稀缺的状况。以下是我的推荐排名顺序随机。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ipn.li/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IPN&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>失踪人口回归</title>
+    <link href="http://yoursite.com/2018/10/10/18-10-10-start/"/>
+    <id>http://yoursite.com/2018/10/10/18-10-10-start/</id>
+    <published>2018-10-10T06:09:27.000Z</published>
+    <updated>2018-10-10T06:10:33.896Z</updated>
+    
+    <content type="html"><![CDATA[<p>我又准备开始写博客啦。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我又准备开始写博客啦。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
