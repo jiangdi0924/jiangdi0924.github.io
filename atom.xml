@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-22T09:41:53.762Z</updated>
+  <updated>2019-06-12T10:05:13.992Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谁也不想上班</title>
+    <link href="http://yoursite.com/2019/06/12/%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/"/>
+    <id>http://yoursite.com/2019/06/12/谁也不想上班/</id>
+    <published>2019-06-12T10:00:44.000Z</published>
+    <updated>2019-06-12T10:05:13.992Z</updated>
+    
+    <content type="html"><![CDATA[<p>谁也不想上班，透支自己的生命。<br>每天工作八个小时太长了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;谁也不想上班，透支自己的生命。&lt;br&gt;每天工作八个小时太长了。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="闲聊" scheme="http://yoursite.com/categories/%E9%97%B2%E8%81%8A/"/>
+    
+    
+      <category term="吐槽" scheme="http://yoursite.com/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>看看大家是如何买房的？</title>
