@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-13T10:20:14.829Z</updated>
+  <updated>2019-06-14T01:01:07.680Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,12 +21,23 @@
     <link href="http://yoursite.com/2019/06/13/%E7%AF%87%E5%B9%85%E4%B8%8D%E9%95%BF%E7%9A%84%E6%97%A5%E8%AE%B00613/"/>
     <id>http://yoursite.com/2019/06/13/篇幅不长的日记0613/</id>
     <published>2019-06-13T10:20:14.000Z</published>
-    <updated>2019-06-13T10:20:14.829Z</updated>
+    <updated>2019-06-14T01:01:07.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天一个名叫“Manfred”的网友推荐我一本书名字叫《哲学起步》。<br>我自己在ruby社区，看到一篇不错的<a href="https://ruby-china.org/topics/38074" target="_blank" rel="external">文章</a><br>，这篇文章讲述的是程序员进阶如何提高的内容。 </p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;今天一个名叫“Manfred”的网友推荐我一本书名字叫《哲学起步》。&lt;br&gt;我自己在ruby社区，看到一篇不错的&lt;a href=&quot;https://ruby-china.org/topics/38074&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;文章&lt;/
+      
+    
     </summary>
     
+      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="书籍" scheme="http://yoursite.com/tags/%E4%B9%A6%E7%B1%8D/"/>
     
   </entry>
   
