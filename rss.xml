@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>norton`blog</title>
+    <link>http://yoursite.com/</link>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 13:30:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>TITLE</title>
+      <link>http://yoursite.com/2020/03/23/ep01/</link>
+      <guid>http://yoursite.com/2020/03/23/ep01/</guid>
+      <pubDate>Mon, 23 Mar 2020 13:26:37 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;测试播客&lt;/p&gt;
+
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2020/03/23/ep01/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>nginx gzip</title>
+      <link>http://yoursite.com/2019/07/02/nginx-gzip/</link>
+      <guid>http://yoursite.com/2019/07/02/nginx-gzip/</guid>
+      <pubDate>Tue, 02 Jul 2019 09:57:36 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>http://yoursite.com/2019/07/02/nginx-gzip/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>关于工作日早起的自我实验</title>
+      <link>http://yoursite.com/2019/06/17/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%97%A9%E8%B5%B7%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%9E%E9%AA%8C/</link>
+      <guid>http://yoursite.com/2019/06/17/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%97%A9%E8%B5%B7%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%9E%E9%AA%8C/</guid>
+      <pubDate>Mon, 17 Jun 2019 10:07:46 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;看了《台客剧场》早起一周的视频之后受启发，把自己一天大脑最清醒的时刻交给自己安排。&lt;/p&gt;
+&lt;h3 id=&quot;第一天&quot;&gt;&lt;a href=&quot;#第一天&quot; class=&quot;headerlink&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2019/06/17/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%97%A9%E8%B5%B7%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%9E%E9%AA%8C/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>篇幅不长的日记0613</title>
+      <link>http://yoursite.com/2019/06/13/%E7%AF%87%E5%B9%85%E4%B8%8D%E9%95%BF%E7%9A%84%E6%97%A5%E8%AE%B00613/</link>
+      <guid>http://yoursite.com/2019/06/13/%E7%AF%87%E5%B9%85%E4%B8%8D%E9%95%BF%E7%9A%84%E6%97%A5%E8%AE%B00613/</guid>
+      <pubDate>Thu, 13 Jun 2019 10:20:14 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;今天一个名叫“Manfred”的网友推荐我一本书名字叫《哲学起步》。&lt;br&gt;我自己在ruby社区，看到一篇不错的&lt;a href=&quot;https://ruby-china.org/topics/38074&quot; target=&quot;_blank&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2019/06/13/%E7%AF%87%E5%B9%85%E4%B8%8D%E9%95%BF%E7%9A%84%E6%97%A5%E8%AE%B00613/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>谁也不想上班</title>
+      <link>http://yoursite.com/2019/06/12/%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</link>
+      <guid>http://yoursite.com/2019/06/12/%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</guid>
+      <pubDate>Wed, 12 Jun 2019 10:00:44 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;谁也不想上班，透支自己的生命。&lt;br&gt;每天工作八个小时太长了。&lt;/p&gt;
+
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2019/06/12/%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>看看大家是如何买房的？</title>
+      <link>http://yoursite.com/2018/10/22/181022/</link>
+      <guid>http://yoursite.com/2018/10/22/181022/</guid>
+      <pubDate>Mon, 22 Oct 2018 09:19:11 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;存钱买房子真是一件让我糟心的事情&lt;br&gt;于是我在v2ex上面发了一个帖子问大家是如何买的:&lt;br&gt;&lt;a href=&quot;https://www.v2ex.com/t/497733#reply94&quot; target=&quot;_blank&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2018/10/22/181022/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>我经常听的podcasts</title>
+      <link>http://yoursite.com/2018/10/11/18-10-11/</link>
+      <guid>http://yoursite.com/2018/10/11/18-10-11/</guid>
+      <pubDate>Thu, 11 Oct 2018 09:29:12 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;漫长的通勤时间被动养成的了听podcasts的习惯，现在已经是一个重度用户，但是也出现的了资源稀缺的状况。以下是我的推荐排名顺序随机。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ipn.li/&quot; target=&quot;_blank&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2018/10/11/18-10-11/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>失踪人口回归</title>
+      <link>http://yoursite.com/2018/10/10/18-10-10-start/</link>
+      <guid>http://yoursite.com/2018/10/10/18-10-10-start/</guid>
+      <pubDate>Wed, 10 Oct 2018 06:09:27 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;我又准备开始写博客啦。&lt;/p&gt;
+
+          
+        
+      
+      </description>
+      
+      <comments>http://yoursite.com/2018/10/10/18-10-10-start/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>

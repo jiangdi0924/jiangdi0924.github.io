@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>norton`blog</title>
+    <link>http://yoursite.com/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>norton</itunes:author>
+    <itunes:summary></itunes:summary>
+    <itunes:owner>
+      <itunes:name>ITUNES-OWNER</itunes:name>
+      <itunes:email>ITUNES-EMAIL</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://yoursite.com/images/logo.jpeg"/>
+    <itunes:category text="CATEGORY">
+      <itunes:category text="CATEGORY"/>
+    </itunes:category>
+    <itunes:explicit></itunes:explicit>
+    <language>zh-CN</language>
+    
+    <item>
+      <title>TITLE</title>
+      <description>测试播客
+</description>
+      <itunes:author>norton</itunes:author>
+      <itunes:subtitle>SUBTITLE</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="http://static.cscript.site"/>
+      <enclosure url="http://static.cscript.siteep01.m4a" length="6989--IN_BYTES" type=""/>
+      <guid></guid>
+      <pubDate>Mon, 23 Mar 2020 13:26:37 GMT</pubDate>
+      <itunes:duration>XX:YY:AA</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
