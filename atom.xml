@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-18T08:47:08.390Z</updated>
+  <updated>2020-03-23T06:52:11.950Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>nginx gzip</title>
+    <link href="http://yoursite.com/2019/07/02/nginx-gzip/"/>
+    <id>http://yoursite.com/2019/07/02/nginx-gzip/</id>
+    <published>2019-07-02T09:57:36.000Z</published>
+    <updated>2020-03-23T06:52:11.950Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="nginx gzip" scheme="http://yoursite.com/tags/nginx-gzip/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于工作日早起的自我实验</title>
     <link href="http://yoursite.com/2019/06/17/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%97%A9%E8%B5%B7%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%9E%E9%AA%8C/"/>
     <id>http://yoursite.com/2019/06/17/关于工作日早起的自我实验/</id>
     <published>2019-06-17T10:07:46.000Z</published>
-    <updated>2019-06-18T08:47:08.390Z</updated>
+    <updated>2019-07-02T09:58:48.306Z</updated>
     
-    <content type="html"><![CDATA[<p>看了《台客剧场》早起一周的视频之后受启发，把自己一天大脑最清醒的时刻交给自己安排。</p><h3 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h3><p>由于前一天晚上21:50就睡啦,第二天5:20左右就自然醒了。可能有些兴奋，原计划6点起床的闹钟还没响我就起来了。<br>起来之后有一点点点点头晕总体还是很舒适。</p><h4 id="做了哪些事情"><a href="#做了哪些事情" class="headerlink" title="做了哪些事情"></a>做了哪些事情</h4><ul><li>拍摄视频</li><li>步行三公里</li><li>吃了早饭</li></ul><h4 id="发生的变化"><a href="#发生的变化" class="headerlink" title="发生的变化"></a>发生的变化</h4><ul><li>早上刚到公司有一点感觉和平常不太一样类似恍惚的感觉但是还是比较精神</li><li>腿有一点酸但是感觉还好（可能是运动原因）</li><li>没有影响工作效率</li><li>晚上有点想吐</li></ul><h3 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h3><p>虽然前一天晚上十点就开始睡觉了但是很不走运的陷入了失眠的困扰的。十二点左右才睡着的，所以早上起来眼睛有点红，总体精神状态也不太好。</p><h4 id="做了哪些事情-1"><a href="#做了哪些事情-1" class="headerlink" title="做了哪些事情"></a>做了哪些事情</h4><ul><li>因为下雨所有没有出去运动，开电脑看了一些论坛的帖子</li><li>早饭</li><li>躺了半小时</li></ul><h4 id="发生的变化-1"><a href="#发生的变化-1" class="headerlink" title="发生的变化"></a>发生的变化</h4><ul><li>早上精神状态不是很好但是没有影响工作</li><li>中午午觉睡的很香</li><li>下午和往常一样</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>看了《台客剧场》早起一周的视频之后受启发，把自己一天大脑最清醒的时刻交给自己安排。</p><h3 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h3><p>由于前一天晚上21:50就睡啦,第二天5:20左右就自然醒了。可能有些兴奋，原计划6点起床的闹钟还没响我就起来了。<br>起来之后有一点点点点头晕总体还是很舒适。</p><h4 id="做了哪些事情"><a href="#做了哪些事情" class="headerlink" title="做了哪些事情"></a>做了哪些事情</h4><ul><li>拍摄视频</li><li>步行三公里</li><li>吃了早饭</li></ul><h4 id="发生的变化"><a href="#发生的变化" class="headerlink" title="发生的变化"></a>发生的变化</h4><ul><li>早上刚到公司有一点感觉和平常不太一样类似恍惚的感觉但是还是比较精神</li><li>腿有一点酸但是感觉还好（可能是运动原因）</li><li>没有影响工作效率</li><li>晚上有点想吐</li></ul><h3 id="第二天"><a href="#第二天" class="headerlink" title="第二天"></a>第二天</h3><p>虽然前一天晚上十点就开始睡觉了但是很不走运的陷入了失眠的困扰的。十二点左右才睡着的，所以早上起来眼睛有点红，总体精神状态也不太好。</p><h4 id="做了哪些事情-1"><a href="#做了哪些事情-1" class="headerlink" title="做了哪些事情"></a>做了哪些事情</h4><ul><li>因为下雨所有没有出去运动，开电脑看了一些论坛的帖子</li><li>早饭</li><li>躺了半小时</li></ul><h4 id="发生的变化-1"><a href="#发生的变化-1" class="headerlink" title="发生的变化"></a>发生的变化</h4><ul><li>早上精神状态不是很好但是没有影响工作</li><li>中午午觉睡的很香</li><li>下午和往常一样</li></ul><h3 id="第三天"><a href="#第三天" class="headerlink" title="第三天"></a>第三天</h3><h3 id="第四天"><a href="#第四天" class="headerlink" title="第四天"></a>第四天</h3><h3 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h3>]]></content>
     
     <summary type="html">
     
