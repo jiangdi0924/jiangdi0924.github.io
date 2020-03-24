@@ -8,15 +8,15 @@
     <itunes:author>norton</itunes:author>
     <itunes:summary></itunes:summary>
     <itunes:owner>
-      <itunes:name>ITUNES-OWNER</itunes:name>
-      <itunes:email>ITUNES-EMAIL</itunes:email>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:image href="http://yoursite.com/images/logo.jpeg"/>
-    <itunes:category text="CATEGORY">
-      <itunes:category text="CATEGORY"/>
+    <itunes:category text="">
+      <itunes:category text=""/>
     </itunes:category>
     <itunes:explicit></itunes:explicit>
-    <language>zh-CN</language>
+    <language></language>
     
     <item>
       <title>TITLE</title>
@@ -25,8 +25,8 @@
       <itunes:author>norton</itunes:author>
       <itunes:subtitle>SUBTITLE</itunes:subtitle>
       <itunes:summary></itunes:summary>
-      <itunes:image href="http://static.cscript.site"/>
-      <enclosure url="http://static.cscript.site/ep01.m4a" length="6989--IN_BYTES" type=""/>
+      <itunes:image href=""/>
+      <enclosure url="/ep01.m4a" length="6989--IN_BYTES" type=""/>
       <guid></guid>
       <pubDate>Mon, 23 Mar 2020 13:26:37 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
