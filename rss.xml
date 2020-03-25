@@ -4,12 +4,12 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>norton`blog</title>
-    <link>http://yoursite.com/</link>
+    <link>https://podcast.cscript.site/</link>
     
     <image>
       <url>http://static.cscript.site/podcast_logo.png</url>
       <title>norton`blog</title>
-      <link>http://yoursite.com/</link>
+      <link>https://podcast.cscript.site/</link>
     </image>
     
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
@@ -20,8 +20,8 @@
     
     <item>
       <title>EP01.聊聊我们理解的游戏巫师3</title>
-      <link>http://yoursite.com/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</link>
-      <guid>http://yoursite.com/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</guid>
+      <link>https://podcast.cscript.site/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</link>
+      <guid>https://podcast.cscript.site/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</guid>
       <pubDate>Wed, 25 Mar 2020 04:48:17 GMT</pubDate>
       <description>
       
@@ -38,7 +38,7 @@
       
       <content:encoded><![CDATA[<p><br>介绍： 主播：姜笛 （微博 @CodeScript）<br>嘉宾：浩宇 （微博 @一桶浆糊bucket）<br>嘉宾：鹿笛<br>简介：今天这期节目的内容是关于游戏《巫师3》的讨论。<br>32.40之前：《巫师3》游戏内容部分的讨论；<br>32.40之后：游戏以外的内容；<br>浩宇推荐的游戏： 《天外世界》，《极乐迪斯科》。<br>鹿笛推荐的游戏： 《神界原罪》，《辐射新维加斯》。<br></p>]]></content:encoded>
       
-      <comments>http://yoursite.com/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/#disqus_thread</comments>
+      <comments>https://podcast.cscript.site/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/#disqus_thread</comments>
     </item>
     
   </channel>

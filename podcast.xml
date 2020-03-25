@@ -5,7 +5,7 @@
   >
   <channel>
     <title>norton`blog</title>
-    <link>http://yoursite.com/</link>
+    <link>https://podcast.cscript.site/</link>
     <language>zh-cn</language>
     <itunes:type>episodic</itunes:type>
     <description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。今天是流动人口播客的第一期，我们也会陆续将音频节目发布到各个平台。欢迎及订阅收听。</description>
@@ -26,8 +26,8 @@
     
     <item>
       <title>EP01.聊聊我们理解的游戏巫师3</title>
-      <link>http://yoursite.com/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</link>
-      <guid>http://yoursite.com/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</guid>
+      <link>https://podcast.cscript.site/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</link>
+      <guid>https://podcast.cscript.site/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</guid>
       <pubDate>Wed, 25 Mar 2020 04:48:17 GMT</pubDate>
       <itunes:duration>3028</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
