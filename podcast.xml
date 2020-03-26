@@ -6,23 +6,29 @@
   <channel>
     <title>流动人口 Stray Population</title>
     <link>https://podcast.cscript.site/</link>
-    <language>zh-cn</language>
+    <language>cn</language>
     <itunes:type>episodic</itunes:type>
     <description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。今天是流动人口播客的第一期，我们也会陆续将音频节目发布到各个平台。欢迎及订阅收听。</description>
+    <googleplay:description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。今天是流动人口播客的第一期，我们也会陆续将音频节目发布到各个平台。欢迎及订阅收听。</googleplay:description>
     <pubDate>Wed, 25 Mar 2020 14:19:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    <itunes:author></itunes:author>
+    <itunes:author>Norton</itunes:author>
+    <googleplay:author>Norton</googleplay:author>
     <itunes:subtitle>由程序员创建的播客，几乎周更。</itunes:subtitle>
+    <googleplay:explicit>no</googleplay:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>姜笛</itunes:name>
       <itunes:email>jiangdi0924@gmail.com</itunes:email>
     </itunes:owner>
-     <itunes:image
-      href="http://static.cscript.site/podcast_logo.png"
-    />
+    <itunes:image href="http://static.cscript.site/podcast_logo.png"/>
+    <googleplay:image href="http://static.cscript.site/podcast_logo.png"/>
     <itunes:category text="Technology"/>
-    <itunes:category text="Cognition"/>
-    <itunes:category text="Culture"/>
+    <itunes:category text="Games &amp; Hobbies"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <googleplay:category text="Technology"/>
+    <googleplay:category text="Games &amp; Hobbies"/>
+    <googleplay:category text="Society &amp; Culture"/>
     
     <item>
       <title>EP01.聊聊我们理解的游戏巫师3</title>
@@ -30,7 +36,8 @@
       <guid>https://podcast.cscript.site/2020/03/25/EP01-%E8%81%8A%E8%81%8A%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E7%9A%84%E6%B8%B8%E6%88%8F%E5%B7%AB%E5%B8%883/</guid>
       <pubDate>Wed, 25 Mar 2020 04:48:17 GMT</pubDate>
       <itunes:duration>3028</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <googleplay:explicit>no</googleplay:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <description>
       
         
@@ -55,6 +62,8 @@
       
       
       <itunes:summary><![CDATA[<p><br>介绍： 主播：姜笛 （微博 @CodeScript）<br>嘉宾：浩宇 （微博 @一桶浆糊bucket）<br>嘉宾：鹿笛<br>简介：今天这期节目的内容是关于游戏《巫师3》的讨论。<br>32.40之前：《巫师3》游戏内容部分的讨论；<br>32.40之后：游戏以外的内容；<br>浩宇推荐的游戏： 《天外世界》，《极乐迪斯科》。<br>鹿笛推荐的游戏： 《神界原罪》，《辐射新维加斯》。<br></p>]]></itunes:summary>
+      <googleplay:description><![CDATA[<p><br>介绍： 主播：姜笛 （微博 @CodeScript）<br>嘉宾：浩宇 （微博 @一桶浆糊bucket）<br>嘉宾：鹿笛<br>简介：今天这期节目的内容是关于游戏《巫师3》的讨论。<br>32.40之前：《巫师3》游戏内容部分的讨论；<br>32.40之后：游戏以外的内容；<br>浩宇推荐的游戏： 《天外世界》，《极乐迪斯科》。<br>鹿笛推荐的游戏： 《神界原罪》，《辐射新维加斯》。<br></p>]]></googleplay:description>
+
       
     </item>
     
