@@ -9,8 +9,8 @@
     <link>https://podcast.cscript.site/</link>
     <language>zh-cn</language>
     <itunes:type>episodic</itunes:type>
-    <description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。今天是流动人口播客的第一期，我们也会陆续将音频节目发布到各个平台。欢迎及订阅收听。</description>
-    <googleplay:description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。今天是流动人口播客的第一期，我们也会陆续将音频节目发布到各个平台。欢迎及订阅收听。</googleplay:description>
+    <description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。</description>
+    <googleplay:description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。</googleplay:description>
     <pubDate>Thu, 26 Mar 2020 10:18:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     <itunes:author>Norton</itunes:author>
@@ -39,6 +39,8 @@
       <itunes:duration>3028</itunes:duration>
       <googleplay:explicit>no</googleplay:explicit>
       <itunes:explicit>no</itunes:explicit>
+      <googleplay:image href="http://static.cscript.site/podcast_green.png"/>
+      <itunes:image href="http://static.cscript.site/podcast_green.png"/>
       <description>
       
         
