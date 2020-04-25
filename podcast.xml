@@ -11,7 +11,7 @@
     <itunes:type>episodic</itunes:type>
     <description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。</description>
     <googleplay:description>流动人口是当今信息容量过载的社会催生出来的产物，欢迎大家使用泛用型播客客户端进行收听。</googleplay:description>
-    <pubDate>Sat, 25 Apr 2020 17:00:29 GMT</pubDate>
+    <pubDate>Sat, 25 Apr 2020 17:01:29 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     <itunes:author>姜笛</itunes:author>
     <googleplay:author>姜笛</googleplay:author>
@@ -53,7 +53,7 @@
       
       </description>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode> 
+      <itunes:episode>3</itunes:episode> 
       <itunes:season>1</itunes:season>
       
       <enclosure length="103988301" type="audio/x-m4a" url="https://static.cscript.site/ep03_notion.m4a"
